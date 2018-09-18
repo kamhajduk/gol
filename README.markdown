@@ -7,3 +7,5 @@ The project is a simple multi-module Maven project. To build the whole project, 
 Test Build Trigger
 
 Test Build Trigger
+
+making this change to see if Jenkins works automatically
